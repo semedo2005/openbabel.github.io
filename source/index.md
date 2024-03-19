@@ -1,5 +1,5 @@
 # Open Babel - the chemistry toolbox
-
+C1=CC=CN1
 Open Babel is a chemical toolbox designed to speak the many languages of chemical data. It's an open, collaborative project allowing anyone to search, convert, analyze, or store data from molecular modeling, chemistry, solid-state materials, biochemistry, or related areas.
 
 - Ready-to-use programs, and complete programmer's toolkit
